@@ -11,4 +11,4 @@ $mail->Password: Define a senha do e-mail de envio;
 $mail->setFrom: Define o e-mail de envio no corpo do e-mail para o receptor, deve ser preenchido com o mesmo informado anteriormente;
 $mail->addAddress: Define o e-mail que irá receber a mensagem;
 $mail->Subject: Define o assunto do e-mail a ser encaminhado;
-$mail->Body: Define o corpo da mensagem.
+$mail->Body: Define o corpo da mensagem
